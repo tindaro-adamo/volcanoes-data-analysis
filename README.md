@@ -7,6 +7,6 @@ https://www.kaggle.com/martincontreras/volcanic-eruptions-dataset-all-to-2020
 Volcanoes data ( up to 2021 ) is taken from https://volcano.si.edu/
 
 Both datasets are publicly available thanks to the Global Volcanism Program, Smithsonian Institution
-https://volcano.si.edu/.
+https://volcano.si.edu/
  
  
