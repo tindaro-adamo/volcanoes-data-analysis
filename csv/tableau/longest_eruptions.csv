@@ -1,0 +1,21 @@
+start_date,end_date,volcano_name,country,primary_volcano_type,eruption_days_length
+1774-07-02,2020-02-20,Yasur,Vanuatu,Stratovolcano,89717.0
+1922-06-22,2020-02-19,Santa Maria,Guatemala,Stratovolcano,35671.0
+1933-08-13,2020-02-19,Dukono,Indonesia,Complex,31601.0
+1934-02-02,2020-02-20,Stromboli,Italy,Stratovolcano,31429.0
+1934-08-08,2011-03-02,Sangay,Ecuador,Stratovolcano,27965.0
+1955-10-13,2016-08-22,Aira,Japan,Caldera,22229.0
+1967-07-02,2020-02-20,Erta Ale,Ethiopia,Shield,19226.0
+1927-03-16,1977-01-10,Nyiragongo,DR Congo,Stratovolcano,18198.0
+1972-12-16,2020-02-18,Erebus,Antarctica,Stratovolcano,17230.0
+1968-07-29,2010-12-16,Arenal,Costa Rica,Stratovolcano,15480.0
+1967-08-31,2009-03-15,Semeru,Indonesia,Stratovolcano,15172.0
+1983-01-03,2018-09-05,Kilauea,United States,Shield,13029.0
+1913-07-05,1944-04-04,Vesuvius,Italy,Stratovolcano,11231.0
+1875-12-18,1906-04-22,Vesuvius,Italy,Stratovolcano,11082.0
+1973-02-24,2000-10-16,Langila,Papua New Guinea,Complex,10096.0
+1956-11-16,1984-05-16,Suwanosejima,Japan,Stratovolcano,10043.0
+1654-02-25,1680-03-28,Vesuvius,Italy,Stratovolcano,9528.0
+1974-03-04,1999-11-09,Manam,Papua New Guinea,Stratovolcano,9381.0
+1965-07-04,1989-03-10,Pacaya,Guatemala,Complex,8650.0
+1972-07-02,1995-07-02,Bagana,Papua New Guinea,Lava cone,8400.0
