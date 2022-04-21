@@ -11,6 +11,6 @@ https://volcano.si.edu/
  
 ## How 
 
-- Python with [Pandas](https://pandas.pydata.org/) is used for exploration and data cleaning.<br>
+- Python with [Pandas](https://pandas.pydata.org/) has been used for exploration and data cleaning.<br>
 - [volcanoes_tableau_prep_sql.ipynb](https://github.com/tindaro-adamo/volcanoes-data-analysis/blob/main/python/volcanoes_tableau_prep_sql.ipynb) uses SQLite with Python to query the data. <br>
 The result of those queries are exported to CSV files and used as data source for the Tableau Public visualisation.
